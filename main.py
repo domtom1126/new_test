@@ -1,0 +1,1 @@
+string_stuff = "this is string"
